@@ -70,3 +70,13 @@ color: orangered;
 font-weight: 900;
 background-color: #3a4452;
 }
+
+
+
+@media (max-width:600px) {
+   .calculator{
+    padding: 0;
+    margin: 0;
+   }
+    
+}
